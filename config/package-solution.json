@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "demowebpart-client-side-solution",
+    "id": "e5af5509-1e51-4052-a68d-7cf32a0cc225",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/demowebpart.sppkg"
+  }
+}
