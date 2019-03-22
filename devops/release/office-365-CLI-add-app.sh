@@ -1,6 +1,6 @@
-SITE_URL=$0
-EMAIL=$1
-PASS=$2
+SITE_URL='https://developertrail.sharepoint.com'
+EMAIL='ganapathy.anantharaj@developertrail.onmicrosoft.com'
+PASS='Developer$@123'
 
 npm i -g @pnp/office365-cli 
 o365 version
