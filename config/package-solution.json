@@ -4,7 +4,8 @@
     "name": "demowebpart-client-side-solution",
     "id": "e5af5509-1e51-4052-a68d-7cf32a0cc225",
     "version": "1.0.0.0",
-    "includeClientSideAssets": true
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
   },
   "paths": {
     "zippedPackage": "solution/demowebpart.sppkg"
