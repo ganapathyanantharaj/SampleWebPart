@@ -1,6 +1,7 @@
 SITE_URL=$1
 EMAIL=$2
 PASS=$3
+console.log($1)
 console.log(SITE_URL)
 console.log($SITE_URL)
 npm i -g @pnp/office365-cli o365 version
